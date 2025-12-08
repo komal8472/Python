@@ -3,20 +3,28 @@ I created this repo to improve my understanding of core Python topics and build 
 
 Topics Covered :
 
-Variables and Data Types
+-Variables and Data Types
 
-Functions
+-Functions
 
-Arguments: *args and **kwargs
+-Arguments: *args and **kwargs
 
-Mutable vs Immutable Data Types
+-Mutable vs Immutable Data Types
 
-List operations
+-List operations
 
-Looping concepts
+-Looping concepts
 
-Basic programs and logic building
+-Basic programs and logic building --Pattern
 
-Slicing
+-Slicing
 
-Indexing
+-Indexing
+
+-Global,local variable
+
+-Python Library
+
+-Array
+
+-Typecasting
