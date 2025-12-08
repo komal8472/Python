@@ -7,23 +7,31 @@ Topics Covered :
 
 - Functions & Arguments
      Functions
+  
     *args and **kwargs
+  
      Global & Local Variables
+  
   
 
  - Data Structures & Operations
      Mutable vs Immutable Data Types
+   
      List Operations
+   
      Array (using Python libraries)
    
 
 - Control Flow & Logic
      Looping Concepts
+  
      Basic Programs & Logic Building
+  
      Pattern Programs
   
 
 - Additional Concepts
+- 
      Python Libraries (Basic usage)
 
 
@@ -31,5 +39,7 @@ Topics Covered :
 Purpose -
 
 To practice and strengthen Python fundamentals.
+
 To build logical thinking and problem-solving skills.
+
 To maintain a clean collection of practice notebooks.
